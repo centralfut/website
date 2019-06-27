@@ -1,0 +1,14 @@
+.btn-send{
+    color: #ffffff;
+    background-color: #13733e;
+    border-color: #13733e;
+}
+.btn-send:hover{
+    background-color: #094c27;
+    border-color: #094c27;
+}
+
+.intro .header-video--media {
+    width: 100%;
+    object-fit: cover;
+}
